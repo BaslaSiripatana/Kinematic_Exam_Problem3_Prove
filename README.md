@@ -17,7 +17,9 @@
    4.3) นำคำตอบ q1_sol, q2_sol, q3_sol (4 รูปแบบ) กลับไปเช็คด้วยสมการ Forward Kinematic เพื่อหา Px_sol, Py_sol, Pz_sol เทียบกับค่า Px, Py, Pz จากขั้นตอน 4.1
 
 เมื่อตรวจสอบแล้ว Px_sol, Py_sol, Pz_sol (จากขั้นตอน 4.3) กับค่า Px, Py, Pz (จากขั้นตอน 4.1) ตรงกันทั้งหมด
+
 จึง Prove ได้ว่าสมการหา q1_sol, q2_sol และ q3_sol จาก Inverse Kinematic ที่คิดได้ในข้อสอบถูกต้อง
 
 Code ทั้งหมดอยู่ในไฟล์ prove_exam3.m
+
 Output ทัั้ง 5 test case ที่ได้จาก code ใน matlab อยู่ในไฟล์ code_output.pdf
